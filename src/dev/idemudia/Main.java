@@ -1,4 +1,4 @@
-package com.company;
+package dev.idemudia;
 
 import java.sql.SQLOutput;
 import java.text.NumberFormat;
